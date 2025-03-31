@@ -14,7 +14,6 @@ public class AluguelCarro {
         this.inicio = inicio;
         this.fim = fim;
         this.carro = carro;
-        this.fatura = fatura;
     }
 
     public LocalDateTime getInicio() {
